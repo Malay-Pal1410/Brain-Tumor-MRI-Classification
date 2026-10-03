@@ -1,0 +1,31 @@
+# Virtual environments
+.venv/
+.venv_old/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Dataset - too large/unnecessary for GitHub
+dataset/
+
+# ZIP files
+*.zip
+
+# Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Temporary files
+*.tmp
+*.log

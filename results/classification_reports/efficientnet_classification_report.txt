@@ -1,0 +1,16 @@
+EFFICIENTNETB0 - BRAIN TUMOR MRI CLASSIFICATION
+======================================================================
+
+Test Loss: 0.4168
+Test Accuracy: 83.74%
+
+              precision    recall  f1-score   support
+
+      glioma     0.8933    0.8375    0.8645        80
+  meningioma     0.8036    0.7143    0.7563        63
+    no_tumor     0.9302    0.8163    0.8696        49
+   pituitary     0.7500    1.0000    0.8571        54
+
+    accuracy                         0.8374       246
+   macro avg     0.8443    0.8420    0.8369       246
+weighted avg     0.8462    0.8374    0.8362       246

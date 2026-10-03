@@ -1,0 +1,24 @@
+BRAIN TUMOR MRI CLASSIFICATION
+MODEL COMPARISON REPORT
+======================================================================
+
+Custom CNN
+Accuracy  : 50.41%
+Precision : 40.98%
+Recall    : 50.41%
+F1-score  : 44.99%
+
+MobileNetV2
+Accuracy  : 84.96%
+Precision : 85.97%
+Recall    : 84.96%
+F1-score  : 84.84%
+
+EfficientNetB0
+Accuracy  : 83.74%
+Precision : 84.62%
+Recall    : 83.74%
+F1-score  : 83.62%
+
+======================================================================
+Highest test accuracy: MobileNetV2 (84.96%)

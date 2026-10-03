@@ -1,0 +1,16 @@
+CUSTOM CNN - TEST SET EVALUATION
+======================================================================
+
+Test Loss: 1.4280
+Test Accuracy: 0.5041
+
+              precision    recall  f1-score   support
+
+      glioma     0.6860    0.7375    0.7108        80
+  meningioma     0.3226    0.4762    0.3846        63
+    no_tumor     0.5224    0.7143    0.6034        49
+   pituitary     0.0000    0.0000    0.0000        54
+
+    accuracy                         0.5041       246
+   macro avg     0.3828    0.4820    0.4247       246
+weighted avg     0.4098    0.5041    0.4499       246

@@ -1,0 +1,24 @@
+{
+    "models": {
+        "Custom CNN": {
+            "accuracy": 50.40650406504065,
+            "precision": 40.976957927141044,
+            "recall": 50.40650406504065,
+            "f1_score": 44.986668547775885
+        },
+        "MobileNetV2": {
+            "accuracy": 84.95934959349594,
+            "precision": 85.96574124533673,
+            "recall": 84.95934959349594,
+            "f1_score": 84.838196173668
+        },
+        "EfficientNetB0": {
+            "accuracy": 83.73983739837398,
+            "precision": 84.62319594126174,
+            "recall": 83.73983739837398,
+            "f1_score": 83.61900775772287
+        }
+    },
+    "best_model": "MobileNetV2",
+    "best_test_accuracy": 84.95934959349594
+}

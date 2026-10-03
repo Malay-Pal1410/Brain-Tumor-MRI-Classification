@@ -1,0 +1,8 @@
+{
+    "model": "Custom CNN",
+    "test_loss": 1.4280331134796143,
+    "accuracy": 0.5040650406504065,
+    "precision_weighted": 0.40976957927141044,
+    "recall_weighted": 0.5040650406504065,
+    "f1_weighted": 0.4498666854777588
+}
